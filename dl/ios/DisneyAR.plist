@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://180.168.137.42:8080/DisneyAR/DisneyAR.ipa</string>
+					<string>http://180.168.137.42:8080/disneyar/disneyar.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.vistandard.DisneyAR</string>
+				<string>com.vistandard.disneyar</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
